@@ -1,4 +1,4 @@
-//Simple HTTP Server
+//Simple HTTP server
 
 package main
 
